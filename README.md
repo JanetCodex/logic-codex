@@ -1,25 +1,29 @@
 # Logic Codex
 
-The Logic Codex is the systems layer of Logic && Lore Studio.
+Systems architecture layer of **Logic && Lore Studio**.
 
-This repository houses structured prompt frameworks, reusable AI workflows, internal tooling concepts, and experimental architectures for creative AI production.
-
----
-
-## Purpose
-
-- Build modular prompt systems  
-- Develop repeatable AI workflows  
-- Test prompt architecture patterns  
-- Document creative automation strategies  
+Logic Codex contains structured frameworks, prompt systems, reproducibility standards, and creative automation tooling.
 
 ---
 
-## Status
+## Repository Structure
 
-🚧 Active development  
-🔐 Canon systems releasing in phases  
+- 📐 **Frameworks** — Canon rules and architecture standards  
+- ⚙️ **Systems** — Studio operational logic  
+- 🧠 **Prompts** — Modular prompt systems  
+- 🚀 **Releases** — Versioned studio drops  
 
 ---
 
-Founder: [[ logic ∧ lore ∘ janet ]]
+## Documentation Hub
+
+Access full internal documentation here:
+
+👉 `/docs`
+
+---
+
+## Founder
+
+[[ logic ∧ lore ∘ janet ]]  
+Logic && Lore Studio
