@@ -1,3 +1,34 @@
+# Logic Codex Documentation Hub
+
+Welcome to the internal documentation system for Logic && Lore Studio.
+
+This hub organizes all architecture, frameworks, prompts, systems, and release artifacts.
+
+---
+
+## Documentation Sections
+
+### 📐 Frameworks
+Core structural standards and canon architecture.
+Path: /docs/frameworks/
+
+### ⚙️ Systems
+Operational rules, workflows, and studio logic.
+Path: /docs/systems/
+
+### 🧠 Prompts
+Reusable prompt systems and hardened prompt frameworks.
+Path: /docs/prompts/
+
+### 🚀 Releases
+Versioned studio drops and artifact releases.
+Path: /docs/releases/
+
+---
+
+## Status
+
+This documentation hub evolves alongside Logic Codex development.
 # 📘 Logic Codex Documentation
 
 Welcome to the Logic Codex internal documentation layer.
