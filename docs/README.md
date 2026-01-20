@@ -6,23 +6,12 @@ This hub organizes all architecture, frameworks, prompts, systems, and release a
 
 ---
 
-## Documentation Sections
+## Sections
 
-### 📐 Frameworks
-Core structural standards and canon architecture.
-Path: /docs/frameworks/
-
-### ⚙️ Systems
-Operational rules, workflows, and studio logic.
-Path: /docs/systems/
-
-### 🧠 Prompts
-Reusable prompt systems and hardened prompt frameworks.
-Path: /docs/prompts/
-
-### 🚀 Releases
-Versioned studio drops and artifact releases.
-Path: /docs/releases/
+- 📐 **Frameworks** → [Frameworks](./frameworks/)
+- ⚙️ **Systems** → [Systems](./systems/)
+- 🧠 **Prompts** → [Prompts](./prompts/)
+- 🚀 **Releases** → [Releases](./releases/)
 
 ---
 
